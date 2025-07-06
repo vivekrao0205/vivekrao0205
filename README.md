@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Vivek Rao</h1>
+<h3 align="center">Creative CG Artist | Unreal Learner | VFX Explorer</h3>
 
-<!--
-**vivekrao0205/vivekrao0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://bento.me/vivek-rao" target="_blank">Portfolio</a> |
+  <a href="https://twitter.com/mr_vivekrao" target="_blank">Twitter</a> |
+  <a href="https://www.instagram.com/mr_vivekrao" target="_blank">Instagram</a> |
+  <a href="mailto:vivekrao6485@gmail.com">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm Vivek Rao, passionate CG artist from India. I love exploring the possibilities of 3D, VFX, and animation workflows.
+
+- 🎓 **Learning Focus:** Unreal Engine, real-time rendering, Programming and procedural VFX.
+- 🤝 **Open to Collaborations:** Especially with animators, VFX artists, and creative coders.
+- 📬 **Contact:** vivekrao6485@gmail.com
+
+---
+
+### Connect With Me
+
+- LinkedIn: [linkedin.com/in/vivek-rao](https://linkedin.com/in/vivek-rao)
+- Twitter: [twitter.com/mr_vivekrao](https://twitter.com/mr_vivekrao)
+- Instagram: [instagram.com/mr_vivekrao](https://instagram.com/mr_vivekrao)
+- YouTube: [youtube.com/@brightgamertelugu](https://www.youtube.com/@brightgamertelugu)
+- Discord Server: [discord.gg/VKrzGuusF6](https://discord.gg/VKrzGuusF6)
+
