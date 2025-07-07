@@ -25,6 +25,5 @@ I'm Vivek Rao, passionate CG artist from India. I love exploring the possibiliti
 - LinkedIn: [linkedin.com/in/vivek-rao](https://linkedin.com/in/vivek-rao)
 - Twitter: [twitter.com/mr_vivekrao](https://twitter.com/mr_vivekrao)
 - Instagram: [instagram.com/mr_vivekrao](https://instagram.com/mr_vivekrao)
-- YouTube: [youtube.com/@brightgamertelugu](https://www.youtube.com/@brightgamertelugu)
 - Discord Server: [discord.gg/VKrzGuusF6](https://discord.gg/VKrzGuusF6)
 
