@@ -2,7 +2,6 @@
 <h3 align="center">Creative CG Artist | Unreal Learner | VFX Explorer</h3>
 
 <p align="center">
-  <a href="https://bento.me/vivek-rao" target="_blank">Portfolio</a> |
   <a href="https://twitter.com/mr_vivekrao" target="_blank">Twitter</a> |
   <a href="https://www.instagram.com/mr_vivekrao" target="_blank">Instagram</a> |
   <a href="mailto:vivekrao6485@gmail.com">Email</a>
