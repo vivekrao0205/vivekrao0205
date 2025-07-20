@@ -1,5 +1,5 @@
 <h1 align="center">Vivek Rao</h1>
-<h3 align="center">Creative CG Artist | Unreal Learner | VFX Explorer</h3>
+<h3 align="center"> CG Artist | Unreal | VFX Explorer </h3>
 
 <p align="center">
   <a href="https://twitter.com/mr_vivekrao" target="_blank">Twitter</a> |
