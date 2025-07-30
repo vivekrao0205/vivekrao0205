@@ -55,7 +55,7 @@ Hey! I'm **Vivek Rao**, a passionate **3D Artist & CG Enthusiast** from India �
 
 ---
 
-<p align="center"><i>“Just Level Up!”</i><br><b>– Kent Beck</b></p>
+<p align="center"><i>“Just Level Up!”</i><br><b>– vivek</b></p>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" />
