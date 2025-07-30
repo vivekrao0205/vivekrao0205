@@ -36,15 +36,6 @@ Hey! I'm **Vivek Rao**, a passionate **3D Artist & CG Enthusiast** from India �
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivekrao0205&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivekrao0205&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
