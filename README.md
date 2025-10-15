@@ -35,16 +35,6 @@ Hey! I'm **Vivek Rao**, a passionate **3D Artist & CG Enthusiast** from India �
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
 
 ---
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/vivekrao0205">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivekrao0205&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivekrao0205&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
----
 ### 🌐 Connect With Me
 
 <p align="center">
