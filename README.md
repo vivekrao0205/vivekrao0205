@@ -54,17 +54,6 @@ Hey! I'm **Vivek Rao**, a passionate **3D Artist & CG Enthusiast** from India �
 </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vivekrao0205" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Mr_vivekrao" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/mr_vivekrao" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" />
-  </a>
-</p>
 ---
 
 <p align="center"><i>“Just Level Up!”</i><br><b>– vivek</b></p>
