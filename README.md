@@ -3,13 +3,12 @@
 </div>
 
 <h3 align="center">
-  Hi there, I'm Vivek Rao 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey there, I'm Vivek Rao 👋  
 </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=3D%20Artist;ECE%20;Always%20Ready%20To%20Create!&center=true&width=440&height=45&font=Fira%20Code">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=3D%20Artist;ECE%20Student;Always%20Ready%20To%20Create!&center=true&width=440&height=45&font=Fira%20Code">
   </a>
 </p>
 
@@ -17,14 +16,18 @@
 
 ### 👨‍💻 About Me
 
-Hey! I'm **Vivek Rao**, a passionate **3D Artist, deeply interested in **VFX, and **procedural workflows**.
+Hey! I’m **Vivek Rao**, a **3D Artist** and **ECE student** who loves blending creativity with technology.  
+I’m fascinated by **VFX**, **procedural design**, and everything that turns imagination into reality.  
 
-- Always open for collabs — especially with **VFX artists**, **3D animators**, and **creative coders**
-- Goal:to create stunning experiences
+🎬 When I’m not experimenting with shaders or simulations, you’ll probably find me tweaking something in Blender or learning new tools to push my limits.  
+
+💡 **I love collaborating** with other creators — whether you’re into **VFX**, **animation**, or **creative coding**, let’s build something cool together.  
+
+🎯 **Goal:** To craft stunning visuals and interactive experiences that make people go *“whoa!”*
 
 ---
 
-### 🚀 Tech Stack & Tools
+### ⚙️ Tech Stack & Tools
 
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab) 
 ![TCL](https://img.shields.io/badge/-TCL-1E5799?style=flat&logo=tcl)
@@ -45,16 +48,21 @@ Hey! I'm **Vivek Rao**, a passionate **3D Artist, deeply interested in **VFX, an
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat&logo=adobe-after-effects)
 
 ---
+
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivekrao0205/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://x.com/Mr_vivekrao" target="_blank"><img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="Twitter" /></a>
+  <a href="https://x.com/Mr_vivekrao" target="_blank"><img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="Twitter (X)" /></a>
   <a href="https://www.instagram.com/mr_vivekrao" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" /></a>
 </p>
+
 ---
 
-<p align="center"><i>“Just Level Up!”</i><br><b>– vivek</b></p>
+<p align="center">
+  <i>"Keep creating, keep learning, and just level up!"</i><br>
+  <b>– Vivek</b>
+</p>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" />
