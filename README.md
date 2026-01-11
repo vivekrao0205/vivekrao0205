@@ -19,14 +19,12 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+  <img src="img/batman.gif" width="1000" alt="batman.gif"/>
+</div>
+
 Hey! I’m **Vivek Rao**, a **3D Artist** and **ECE student** who loves blending creativity with technology.  
-I’m deeply fascinated by **VFX**, **procedural design**, and everything that turns imagination into reality.
-
-🎬 When I’m not experimenting with shaders or simulations, you’ll probably find me tweaking scenes in **Blender** or learning new tools to push my creative limits.
-
-💡 I love **collaborating with other creators** — whether you’re into **VFX**, **animation**, **game engines**, or **creative coding**, let’s build something awesome together.
-
-🎯 **Goal:** To craft stunning visuals and interactive experiences that make people go *“whoa!”*
+I’m deeply fascinated by **VFX**, **Programing**, and everything that turns imagination into reality.
 
 ---
 
