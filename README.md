@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="img/batman.gif" width="1000" alt="batman.gif"/>
+  <img src="img/bat.gif" width="850" alt="batman.gif"/>
 </div>
 
 Hey! I’m **Vivek Rao**, a **3D Artist** and **ECE student** who loves blending creativity with technology.  
