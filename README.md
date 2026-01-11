@@ -1,10 +1,3 @@
-<!-- Top Wave -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true"/>
-</div>
-
-<!-- Intro -->
-<h2 align="center">Hey there, I'm Vivek Rao 👋</h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -15,9 +8,8 @@
   </a>
 </p>
 
----
 
-## 👨‍💻 About Me
+## About Me
 
 <div align="center">
   <img src="img/bat.gif" width="850" alt="batman.gif"/>
@@ -26,9 +18,8 @@
 Hey! I’m **Vivek Rao**, a **3D Artist** and **ECE student** who loves blending creativity with technology.  
 I’m deeply fascinated by **VFX**, **Programing**, and everything that turns imagination into reality.
 
----
 
-## ⚙️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab"/>
@@ -53,31 +44,5 @@ I’m deeply fascinated by **VFX**, **Programing**, and everything that turns im
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobe-after-effects"/>
 </p>
 
----
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vivekrao0205/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Mr_vivekrao" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="Twitter X"/>
-  </a>
-  <a href="https://www.instagram.com/mr_vivekrao" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Keep creating, keep learning, and just level up!"</i><br/>
-  <b>– Vivek</b>
-</p>
-
-<!-- Bottom Wave -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
-</div>
 
