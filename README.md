@@ -91,8 +91,6 @@ I’m deeply fascinated by **VFX**, **Programing**, and everything that turns im
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vivekrao0205&style=for-the-badge&color=brightgreen)](https://github.com/vivekrao0205)
-
 </div>
 
 ---
