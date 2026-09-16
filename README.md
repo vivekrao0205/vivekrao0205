@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- HERO SECTION: VS CODE PANEL & CYBER PORTRAIT -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr valign="top">
     <td width="49%" align="center">
-      <img src="./img/code-panel-vscode.gif" width="440" alt="Vivek Rao VS Code Editor" />
+      <img src="./img/code-panel-vscode.gif" width="440" alt="VS Code" />
     </td>
     <td width="2%">&nbsp;</td>
     <td width="49%" align="center">
-      <img src="./img/portrait-card.png" width="440" alt="Vivek Rao Cyber Portrait" />
+      <img src="./img/portrait-card.png" width="440" alt="Vivek Rao" />
     </td>
   </tr>
 </table>
@@ -27,11 +26,14 @@ I’m deeply fascinated by VFX, Programming, AI, and everything that turns imagi
 
 ## SKILLS & TOOLS
 
-<div align="center">
-
-<img src="./img/core-stack.png" width="890" alt="Vivek Rao Skills & Tools" />
-
-</div>
+| 3D & VFX | Programming | Development | Engineering & AI |
+| :--- | :--- | :--- | :--- |
+| Blender | Java | React | MATLAB |
+| Maya | Python | Next.js | TCL |
+| Houdini | C | Android | Arduino |
+| After Effects | Kotlin | Firebase | Python AI |
+| Premiere Pro | TypeScript | Git | AI APIs |
+| Photoshop | JavaScript | GitHub | Automation |
 
 <br/>
 
@@ -51,7 +53,7 @@ I’m deeply fascinated by VFX, Programming, AI, and everything that turns imagi
 
 <br/>
 
-## CONNECT WITH ME
+## CONNECT
 
 <div align="center">
 
@@ -62,22 +64,16 @@ I’m deeply fascinated by VFX, Programming, AI, and everything that turns imagi
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
-    <td width="10">&nbsp;</td>
+    <td width="15">&nbsp;</td>
     <td align="center">
       <a href="https://github.com/vivekrao0205">
-        <img src="https://img.shields.io/badge/GitHub%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
-    <td width="10">&nbsp;</td>
-    <td align="center">
-      <a href="https://instagram.com/mr_vivekrao">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
-    </td>
-    <td width="10">&nbsp;</td>
+    <td width="15">&nbsp;</td>
     <td align="center">
       <a href="mailto:vivekrao6485@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        <img src="https://img.shields.io/badge/Mail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
       </a>
     </td>
   </tr>
@@ -85,8 +81,6 @@ I’m deeply fascinated by VFX, Programming, AI, and everything that turns imagi
 
 <br/>
 
----
-
-*BUILDING AT THE INTERSECTION OF CODE, CREATIVITY AND TECHNOLOGY.*
+`vivekrao6485@gmail.com`
 
 </div>
